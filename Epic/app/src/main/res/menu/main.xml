@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_menu"
+        android:title="@string/navigate"
+        android:orderInCategory="100"
+        app:itemTextColor="@color/white"
+        app:itemIconTint="@color/white"
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        android:icon="@drawable/menu_icon"
+        app:showAsAction="always" />nav
+    <item
+        android:title="@string/account"
+        android:id="@+id/action_more"
+        app:itemTextColor="@color/white"
+        style="@android:style/TextAppearance.DeviceDefault.Medium"
+        app:itemIconTint="@color/white"
+        android:orderInCategory="200"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_logout"
+                android:orderInCategory="100"
+                android:title="@string/action_logout"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/action_delete"
+                android:orderInCategory="100"
+                android:title="@string/action_delete"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

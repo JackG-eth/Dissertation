@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Epic</string>
+    <string name="action_delete">Delete Account</string>
+    <string name="create_account">Create Account</string>
+    <string name="account_exists">Already have an account? Login here</string>
+    <string name="google_sign">Or sign in with google.</string>
+    <string name="rationale_location_network">This app needs access to your location and network to know where and who you are or you will not be able to access the map feature.</string>
+    <string name="rationale_camera">This app needs access to your Camera or this feature will not work.</string>
+    <string name="prompt_email">Email</string>
+    <string name="login">Login</string>
+    <string name="gdpr">By creating an account you agree to EPICs Privacy Notice and Terms and Conditions, if not you cannot proceed into the application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_sightings">Sightings</string>
+    <string name="contact_us">Email us</string>
+    <string name="google_play">Rate us</string>
+    <string name="thanks">Thank you from the team!</string>
+    <string name="menu_species">Species List</string>
+    <string name="how_many">How many did you spot?</string>
+    <string name="SpeciesChild">SpeciesChild</string>
+    <string name="Extra_Info">More Information?</string>
+    <string name="Species">Species</string>
+    <string name="submit">Submit</string>
+    <string name="how_many1">How many?</string>
+    <string name="sighted">What have you spotted?</string>
+    <string name="action_logout">Logout</string>
+    <string name="navigate">Navigation</string>
+    <string name="account">Account</string>
+    <string name="number">Number</string>
+    <string name="menu_home">Home</string>
+    <string name="epic">Epic</string>
+    <string name="signup">Click here to sign up!</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_about">About Us!</string>
+    <string name="about_animal">About</string>
+    <string name="record_sighting">Record Sighting</string>
+    <string name="menu_ar">Augmented Reality (Beta)</string>
+    <string name="fui_password_hint_confirm">Confirm Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="feedback_text">Did you find this app helpful and beneficial?</string>
+    <string name="read">Read</string>
+    <string name="API_KEY">AIzaSyB3uX1q_qIJVX2hYKI2SkoRhX1mGqgIjvI</string>
+    <string name="legend_map_legend">Display Map Legend.</string>
+    <string name="find_out_more">Find out more here.</string>
+    <string name="legend_display_interests">Display points of interest.</string>
+    <string name="legend_location_specific_points">Display facts based on location.</string>
+    <string name="image_title">Aerial View of the Site</string>
+    <string name="website_url">https://oart.org.uk/epic/</string>
+    <string name="about_usp1">The project is led by the Ouse and Adur Rivers Trust which was formed in 2011. We are a registered charity and a member of the national body now known as The Rivers Trust (formerly the Association of Rivers Trusts). </string>
+    <string name="about_usp2">The project is partnered with the Sompting Estate Trust which is the landowner of Sompting Brooks. The Sompting Estate has been owned and managed by the Crofts/Tristram family for over 250 years and comprises of farms, woodland and livery facilities. In addition, the estate runs wildlife courses and events as well as supporting Forest Schools and continues to invest in developing a thriving Estate for the wider community to enjoy </string>
+    <string name="about_usp3">Thanks to players of the National Lottery, the project is funded via an award from the National Lottery Heritage Fund and further supported by the Environment Agency, Rampion Offshore Wind Ltd, Sussex Community Foundation Rampion Fund and Sompting Big Local.</string>
+    <string name="about_usp4">Peter King, Director at the Ouse and Adur Rivers Trust, said: “We are delighted to have been given the opportunity to deliver this project. It will make a real difference, not only to the local environment but also to the residents of the surrounding area.  We are very grateful for all the support from our funders and the local community which we have received as the ideas were being developed.  We are now looking forward to turning the concept into a reality.”</string>
+    <string name="introduction">This urban chalk stream restoration project is realigning the course of the Broadwater Brook to enhance its ecological potential. On completion the site will become accessible to the public for the first time, enabling people to connect with this natural heritage along a river trail with seating areas and a wildlife viewing hide.</string>
+    <string name="introduction2">This application includes:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="send">Send</string>
+    <string name="hint_feedback">Enter Feedback Here.</string>
+    <string name="feedback_extra">Please let us know what we could improve:</string>
+    <string name="introduction3">\u2022 Interactive mapping
+                                 \n\u2022 Ability to record sightings
+                                 \n\u2022 Feedback submission
+                                 \n\u2022 Information about us
+                                 \n\u2022 Images of species on site</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

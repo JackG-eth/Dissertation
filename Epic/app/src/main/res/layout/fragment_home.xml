@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- use logic to work out % of screen? -->
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/home_image">
+
+        </androidx.appcompat.widget.AppCompatImageView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_marginLeft="20dp"
+            android:id="@+id/welcome_message"
+            android:text="@string/welcome"
+            style="@android:style/TextAppearance.DeviceDefault.Large"
+            android:textColor="@color/colorPrimary"
+            android:layout_gravity="left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </androidx.appcompat.widget.AppCompatTextView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/colorPrimaryDark"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/welcome_info"
+            android:text="@string/introduction"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </androidx.appcompat.widget.AppCompatTextView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/welcome_info_two"
+            android:text="@string/introduction2"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </androidx.appcompat.widget.AppCompatTextView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/welcome_info_three"
+            android:text="@string/introduction3"
+            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </androidx.appcompat.widget.AppCompatTextView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

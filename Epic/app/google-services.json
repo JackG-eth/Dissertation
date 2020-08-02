@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702550172947",
+    "firebase_url": "https://epic-5ae7a.firebaseio.com",
+    "project_id": "epic-5ae7a",
+    "storage_bucket": "epic-5ae7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702550172947:android:1b4f6b850efa709dbee6e6",
+        "android_client_info": {
+          "package_name": "com.example.epic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702550172947-jvn0hqmrj0a36he3u3bpndqo7l0n496c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epic",
+            "certificate_hash": "92887a93756deb7f426fb64a273a43b3f75be42b"
+          }
+        },
+        {
+          "client_id": "702550172947-lloo21u85anr86ar8a5crnm9ldq9ccpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtMR1KsrSwnZKTLXsr7ZKzUBOXrw7KU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702550172947-lloo21u85anr86ar8a5crnm9ldq9ccpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
